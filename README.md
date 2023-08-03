@@ -8,4 +8,5 @@
 + Yahoo Finance
 
 # THYAO Tahmin Sonucu
+
 <img src="https://github.com/frkndoganay/Gunluk-Borsa-Tahmini/blob/master/THYAO.png" width="auto">
